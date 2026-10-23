@@ -1,0 +1,14 @@
+{
+  "alice": {
+    "prenom": "Alice",
+    "nom": "Testeur",
+    "email": "alice@example.test",
+    "motDePasse": "Test-Alice-2026!"
+  },
+  "bruno": {
+    "prenom": "Bruno",
+    "nom": "Essai",
+    "email": "bruno@example.test",
+    "motDePasse": "Test-Bruno-2026!"
+  }
+}
